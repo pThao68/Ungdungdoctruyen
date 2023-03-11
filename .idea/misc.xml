@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.167" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/drawable/ic_image.xml" value="0.167" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/drawable/ic_load.xml" value="0.167" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_main_dang_bai.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_main_noi_dung.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_main_thongtin.xml" value="0.2" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_man_admin.xml" value="0.2" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_man_dang_ky.xml" value="0.2" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_man_dang_nhap.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_man_tim_kiem.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_sua_mai.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/activity_update.xml" value="0.18478260869565216" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/chuyenmuc.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/dialogdelete.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/dialogupdate.xml" value="0.19375" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/navigation_thontin.xml" value="0.264" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/layout/newtruyen.xml" value="0.1" />
+        <entry key="..\:/Ungdungdoctruyen/app/src/main/res/menu/mymenu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

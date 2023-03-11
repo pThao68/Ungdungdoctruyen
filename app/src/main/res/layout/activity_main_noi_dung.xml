@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainNoiDung">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:layout_margin="20dp"
+        android:id="@+id/troveHome">
+
+    </Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/TenTruyen"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="28sp"
+        android:text="Tên truyện">
+    </TextView>
+
+    <TextView
+        android:id="@+id/noidung"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:scrollbars="vertical"
+        android:text="Nội dung"
+        android:textSize="25sp"
+
+        ></TextView>
+
+</LinearLayout>
